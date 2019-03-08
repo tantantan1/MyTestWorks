@@ -16,8 +16,6 @@ switch(str1.substring(str1.length() - 2, str1.length())) {
 
         public static void main (String[] args){
             String Word1 = "Helly";
-            System.out.println(Word1.length());
-            System.out.println(Word1.substring(Word1.length()-2, Word1.length()));
             System.out.print(endsLy(Word1));
 
 
